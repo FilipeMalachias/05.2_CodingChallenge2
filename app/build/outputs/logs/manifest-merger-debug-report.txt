@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+MERGED from [com.android.support:design:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/7237086e3e7f16d6834f39f6aead92e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/1e41cdc6ec6c8d2614943c9fce575e35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/5847caeaef8a2a71195dc12eef0b78b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/fed937deb8ea7ffc07e4bce5a6966d57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/8d7cc0ba6b6c8dde665221e682851ca9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/e0369a8b28ea68cb31751e05c87bc159/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/7bf71d9ba7a71b0e3dd53f626d0556a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/7ae27d60f5991acd53b8be257c720c52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/4bc223f0f4f195ab28c1019f9f60db39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/43e4f34692f86e7ca8d5e0d297d91e91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/e0bffb39eaa5122f53601190eee98cb9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/f2950de6db2e41542a11abdd0852a5b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/654591462d13413c4fa9c40cb3a8f852/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/12f240608424a3a3c34c57d59a68e525/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/fd798650ba62fa0e954e13837be5e0a5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/02e40e6ec95ec5046972d67571caacef/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+	package
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:18:5-59
+		INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:20:5-34:19
+	android:supportsRtl
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.transitionsandanimations.MainActivity
+ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.example.android.transitionsandanimations.SecondActivity
+ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:33:9-52
+	android:name
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml:33:19-49
+uses-sdk
+INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/7237086e3e7f16d6834f39f6aead92e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/7237086e3e7f16d6834f39f6aead92e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/1e41cdc6ec6c8d2614943c9fce575e35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/1e41cdc6ec6c8d2614943c9fce575e35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/5847caeaef8a2a71195dc12eef0b78b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/5847caeaef8a2a71195dc12eef0b78b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/fed937deb8ea7ffc07e4bce5a6966d57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/fed937deb8ea7ffc07e4bce5a6966d57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/8d7cc0ba6b6c8dde665221e682851ca9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/8d7cc0ba6b6c8dde665221e682851ca9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/e0369a8b28ea68cb31751e05c87bc159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/e0369a8b28ea68cb31751e05c87bc159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/7bf71d9ba7a71b0e3dd53f626d0556a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/7bf71d9ba7a71b0e3dd53f626d0556a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/7ae27d60f5991acd53b8be257c720c52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/7ae27d60f5991acd53b8be257c720c52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/4bc223f0f4f195ab28c1019f9f60db39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/4bc223f0f4f195ab28c1019f9f60db39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/43e4f34692f86e7ca8d5e0d297d91e91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/43e4f34692f86e7ca8d5e0d297d91e91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/e0bffb39eaa5122f53601190eee98cb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/e0bffb39eaa5122f53601190eee98cb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/f2950de6db2e41542a11abdd0852a5b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/f2950de6db2e41542a11abdd0852a5b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/654591462d13413c4fa9c40cb3a8f852/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/654591462d13413c4fa9c40cb3a8f852/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/12f240608424a3a3c34c57d59a68e525/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/12f240608424a3a3c34c57d59a68e525/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/fd798650ba62fa0e954e13837be5e0a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/fd798650ba62fa0e954e13837be5e0a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/02e40e6ec95ec5046972d67571caacef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/02e40e6ec95ec5046972d67571caacef/AndroidManifest.xml:20:5-44
+INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		ADDED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/malachias/Android/Lesson 5/CodingChalleng205.2_2/TransitionsandAnimations/app/src/main/AndroidManifest.xml
